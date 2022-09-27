@@ -1,6 +1,6 @@
 const express = require("express");
 const app = express();
-const path = require("node:path");
+const path = require("path");
 
 const { PORT = 3000 } = process.env;
 
